@@ -54,6 +54,11 @@ I'm a passionate data scientist with a love for turning data into actionable ins
 ### Database:
 <p align="center">
   <img src="https://www.shutterstock.com/image-vector/sql-icon-major-database-format-260nw-1904337712.jpg" alt="SQL" width="60" height="60"/>
+</p>
+
+### Data Visualization:
+<p align="centre">
+  < img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4hzOS5W2J2PjB4JssJDrmx1b7xFn0yt0uCw&s" alt="Power BI" width="60" height="60"/>
 
 ---
 
