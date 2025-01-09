@@ -58,7 +58,7 @@ I'm a passionate data scientist with a love for turning data into actionable ins
 
 ### Data Visualization:
 <p align="centre">
-  < img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="Power BI" width="60" height="60"/>
+  < img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" width="60" height="60"/>
 </p>
 
 
