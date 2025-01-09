@@ -52,12 +52,12 @@ I'm a passionate data scientist with a love for turning data into actionable ins
 </p>
 
 ### Database:
-<p align=<"center">
+<p align="center">
   <img src="https://www.shutterstock.com/image-vector/sql-icon-major-database-format-260nw-1904337712.jpg" alt="SQL" width="60" height="60"/>
 </p>
 
 ### Data Visualization:
-<p align="centre">
+<p align="center">
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" width="60" height="60"/>
 </p>
 
