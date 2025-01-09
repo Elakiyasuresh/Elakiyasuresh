@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://Elakiyasuresh.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Karthick-blueviolet?style=for-the-badge&logo=github" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Elakiya suresh-blueviolet?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
 </p>
 
@@ -52,7 +52,7 @@ I'm a passionate data scientist with a love for turning data into actionable ins
 </p>
 
 ### Database:
-<p align="center">
+<p align=<"center">
   <img src="https://www.shutterstock.com/image-vector/sql-icon-major-database-format-260nw-1904337712.jpg" alt="SQL" width="60" height="60"/>
 </p>
 
